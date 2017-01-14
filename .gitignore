@@ -1,2 +1,8 @@
 fer2013_full.csv
 .ipynb_checkpoints
+
+*.pyc
+
+fer2013_6000.csv
+
+surprised_angry.jpg
