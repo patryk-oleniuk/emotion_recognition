@@ -1,7 +1,16 @@
-This is the facial emotion recognition project. 
-It uses CNN and a dataset of 35k labeled faces to teach facial emotions. 
+## Facial Emotion Recognition
+
+It is a trained CNN on a dataset of 35k labeled faces to teach facial emotions. 
 It was coded as a project for NTDS subject at EPFL, 2016. 
-The CNN was implemented in python/tensorflow. To run the code(*.ipynb) Jupyter Notebook is required. 
+The CNN was implemented in python/tensorflow with 7-later CNN with dropouts, max-pooling. To run the code(*.ipynb) Jupyter Notebook is required. 
+
+Overview of the CNN:
+![](img/convnet.png)
+
+Example results: 
+![](img/example-0.png)
+![](img/example-1.png)
+![](img/example-2.png)
 
 The dataset is taken from kaggle competition:
 
