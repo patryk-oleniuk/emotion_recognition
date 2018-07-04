@@ -6,8 +6,9 @@ The CNN was implemented in python/tensorflow with 7-later CNN with dropouts, max
 
 Overview of the CNN:
 ![](img/convnet.png)
-
+<br>
 Example results: 
+
 ![](img/example-0.png)
 ![](img/example-1.png)
 ![](img/example-2.png)
